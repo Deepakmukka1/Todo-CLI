@@ -1,12 +1,12 @@
 #!/usr/bin/env node
-const { transcode } = require('buffer');
+//const { transcode } = require('buffer');
 var fs = require('fs');
 //const inquirer  = require('./bin/inquirer');
 if(process.argv[2]==="add")
  {
     fs.appendFile('todo.txt', `${process.argv[3]+'\n'}`, function (err) {
         if (err) throw err;
-        console.log('Saved to file');
+        console.log(`Added todo: ${process.argv[3]}`);
       }); 
  }
  if(process.argv[2]==="ls")
@@ -22,7 +22,7 @@ if(process.argv[2]==="add")
  }
  if(process.argv.length<=2)
  {
-     console.log("Enter ls for list\n")
+     console.log("Enter add 'your-task' to add a task\nEnter del {task-number} to delete the todo\nEnter ls for list of todos")
  }
  if(process.argv[2]=="del")
  {
@@ -32,7 +32,7 @@ if(process.argv[2]==="add")
         arr.splice(process.argv[3]-1,1)
         fs.writeFile('todo.txt',arr.join("\n"), function(err){
            if(err) throw err
-           console.log(arr.length)
+           console.log(`Deleted todo #${process.argv[3]}`)
         })
     })
  }
