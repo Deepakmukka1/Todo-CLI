@@ -1,4 +1,4 @@
-<h2>Todo-CLI</h2>
+<h1 style="text-align:center;">Todo-CLI</h1>
 
 This is a Command line Interface program that helps to manage our daily tasks ☺
 
