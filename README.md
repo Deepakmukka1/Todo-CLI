@@ -4,16 +4,42 @@ This is a todo Command line Interface program that helps to manage our daily tas
 
 # How to Install
 
-### 1. Make sure node is installed in your device
+### 1. Make sure node and git are installed in your device
 
-### 2. git clone this project
+```
+Install from https://nodejs.org/en/
+
+```
+
+### 2. Open your command line and clone this project using the below command
 
 ```
 git clone https://github.com/Deepakmukka1/Todo-CLI.git
 
 ```
 
-# Instructions to use
+### 3. go to the file Todo-CLI using below command
+
+```
+cd Todo-CLI
+
+```
+
+### 4. Install
+
+```
+npm install -g
+
+```
+
+### 5. Done! You are ready to use it
+
+```
+console.log('Thank you for installing')
+
+```
+
+# Instructions
 
 ### 1. Help
 
