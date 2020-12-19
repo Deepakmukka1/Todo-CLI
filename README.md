@@ -4,7 +4,7 @@
 <img  src="https://lh6.googleusercontent.com/3MGKQr9ItkZapEzHWkG6lojM9fdMp1Xab_JpAK3s__EhPAbEWPNzKv4pzryeVyRt-Nr8tua0OFX4CQ=w1920-h942" >
 </p>
 
-This is a Command line Interface program that helps to manage our daily tasks ☺
+<p align="center">This is a Command line Interface program that helps to manage our daily tasks ☺</p>
 
 <h1 align="center">🔥 How to Install 🔥</h1>
 
