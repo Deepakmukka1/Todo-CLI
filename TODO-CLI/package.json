@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "bin": {
-    "todo": "./todo.js"
+    "./todo": "./todo.js"
   },
   "dependencies": {
     "inquirer": "^7.3.3"
