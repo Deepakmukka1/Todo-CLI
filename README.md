@@ -1,6 +1,6 @@
-# Todo-CLI
+<p style="text-align: center;"># Todo-CLI</p>
 
-This is a todo Command line Interface program that helps to manage our daily tasks (simple but using command line for todo is something that excited me ☺)
+This is a Command line Interface program that helps to manage our daily tasks ☺
 
 # How to Install
 
