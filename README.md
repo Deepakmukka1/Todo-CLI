@@ -18,7 +18,7 @@ git clone https://github.com/Deepakmukka1/Todo-CLI.git
 
 ```
 
-### 3. go to the file Todo-CLI using below command
+### 3. Go to the file Todo-CLI using below command
 
 ```
 cd Todo-CLI
