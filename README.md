@@ -1,4 +1,4 @@
-<h1 align="center">Todo-CLI</h1>
+<h1 align="center">🚀 Todo-CLI 🚀</h1>
 
 <p align="center">
 <img  src="https://lh6.googleusercontent.com/3MGKQr9ItkZapEzHWkG6lojM9fdMp1Xab_JpAK3s__EhPAbEWPNzKv4pzryeVyRt-Nr8tua0OFX4CQ=w1920-h942" >
@@ -6,7 +6,7 @@
 
 This is a Command line Interface program that helps to manage our daily tasks ☺
 
-<h1 align="center">How to Install</h1>
+<h1 align="center">🔥 How to Install 🔥</h1>
 
 ### 1. Make sure node and git are installed in your device
 
@@ -43,7 +43,7 @@ console.log('Thank you for installing')
 
 ```
 
-<h1 align="center">How to Use</h1>
+<h1 align="center">⚡️ How to Use< ⚡️/h1>
 
 ### 1. Help
 
