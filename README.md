@@ -43,7 +43,7 @@ console.log('Thank you for installing')
 
 ```
 
-<h1 align="center">⚡️ How to Use< ⚡️/h1>
+<h1 align="center">⚡️ How to Use ⚡️</h1>
 
 ### 1. Help
 
