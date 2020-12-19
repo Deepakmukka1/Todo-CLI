@@ -2,6 +2,17 @@
 
 This is a todo Command line Interface program that helps to manage our daily tasks (simple but using command line for todo is something that excited me ☺)
 
+# How to Install
+
+### 1. Make sure node is installed in your device
+
+### 2. git clone this project
+
+```
+git clone https://github.com/Deepakmukka1/Todo-CLI.git
+
+```
+
 # Instructions to use
 
 ### 1. Help
