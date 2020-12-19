@@ -5,14 +5,14 @@
 Use the `help` command to see the usage
 
 ```
-$ ./todo help
+$ todo help
 Usage :-
-$ ./todo add "todo item"  # Add a new todo
-$ ./todo ls               # Show remaining todos
-$ ./todo del NUMBER       # Delete a todo
-$ ./todo done NUMBER      # Complete a todo
-$ ./todo help             # Show usage
-$ ./todo report           # Statistics
+$ todo add "todo item"  # Add a new todo
+$ todo ls               # See remaining todos
+$ todo del NUMBER       # Delete a todo
+$ todo done NUMBER      # Complete a todo
+$ todo help             # See usage
+$ todo report           # See the Statistics
 ```
 
 ### 2. List all pending todos
@@ -20,8 +20,7 @@ $ ./todo report           # Statistics
 Use the `ls` command to see all the todos that are not yet complete.
 
 ```
-$ ./todo ls
-
+$ todo ls
 ```
 
 ### 3. Add a new todo
@@ -29,7 +28,7 @@ $ ./todo ls
 Use the `add` command followed by the item to add an item to the todo.
 
 ```
-$ ./todo add "the thing i need to do"
+$ todo add "the thing i need to do"
 
 ```
 
@@ -38,8 +37,8 @@ $ ./todo add "the thing i need to do"
 Use the `del` command to remove a todo item by its number.
 
 ```
-$ ./todo del 3
-Deleted todo #3
+$ todo del 3
+
 ```
 
 ### 5. Mark a todo item as completed
@@ -47,8 +46,8 @@ Deleted todo #3
 Use the `done` command to mark a todo item as completed by its number.
 
 ```
-$ ./todo done 1
-Marked todo #1 as done.
+$ todo done 1
+
 ```
 
 ### 6. Generate a report
@@ -56,6 +55,6 @@ Marked todo #1 as done.
 Use the `report` command to see the latest tally of pending and completed todos.
 
 ```
-$ ./todo report
-dd/mm/yyyy Pending : 1 Completed : 4
+$ todo report
+
 ```
