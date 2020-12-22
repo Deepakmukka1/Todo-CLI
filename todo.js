@@ -132,9 +132,7 @@ if (process.argv[2] === "report") {
     fs.readFile("done.txt", "utf-8", function (err, data2) {
       if (err) throw err;
       arr2 = data2.split("\n");
-      console.log(`${getDate('-')} Pending : ${arr1.length-1} Completed : ${arr2.length-1}`)//get date 
-      //is taking an argument because it was mentioned in the Readme as dd/mm/yyyy
-      // but in the test it is taking dd-mm-yyyy so it is reusable based on requirement
+      console.log(`${getDate('-')} Pending : ${arr1.length-1} Completed : ${arr2.length-1}`)
       
     })
     
