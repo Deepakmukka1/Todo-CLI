@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Todo-CLI 🚀</h1>
 
 <p align="center">
-<img  src="https://lh6.googleusercontent.com/3MGKQr9ItkZapEzHWkG6lojM9fdMp1Xab_JpAK3s__EhPAbEWPNzKv4pzryeVyRt-Nr8tua0OFX4CQ=w1920-h942" >
+<img  src="https://github.com/Deepakmukka1/Todo-CLI/blob/master/TODO.png" >
 </p>
 
 <p align="center">This is a Command line Interface program that helps to manage our daily tasks ☺</p>
