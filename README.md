@@ -97,7 +97,7 @@ $ todo done 1
 
 ### 6. Generate a report
 
-Use the `report` command to see the latest tally of pending and completed todos.
+Use the `report` command to see the list of pending and completed todos.
 
 ```
 $ todo report
