@@ -47,7 +47,7 @@ console.log('Thank you for installing')
 
 ### 1. Help
 
-Use the `help` command to see the usage
+Use the `todo help` command to see the usage
 
 ```
 $ todo help
